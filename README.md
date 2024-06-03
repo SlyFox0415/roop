@@ -76,6 +76,4 @@ Our software uses a lot of third party libraries as well pre-trained models. The
 - all developers behind the libraries used in this project
 
 
-## Documentation
 
-Read the [documentation](https://github.com/s0md3v/roop/wiki) for a deep dive.
